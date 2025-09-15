@@ -24,7 +24,7 @@ You have several options:
 
 #### Option C: Use existing Android Studio SDK
 If you have Android Studio installed:
-- Windows: `C:\Users\%USERNAME%\AppData\Local\Android\Sdk`
+- Windows: `roid\Sdk`
 - macOS: `~/Library/Android/sdk`
 - Linux: `~/Android/Sdk`
 
